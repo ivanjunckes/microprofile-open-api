@@ -33,6 +33,7 @@ import java.lang.annotation.Target;
 @Inherited
 public @interface Content {
 
+    
     /**
      * The media type that this object applies to.
      *
